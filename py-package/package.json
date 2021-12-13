@@ -1,0 +1,9 @@
+{
+  "name": "py-package",
+  "scripts": {
+    "dev": "nodemon -e .py --exec python main.py"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
